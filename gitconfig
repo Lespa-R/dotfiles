@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lespagnol.robin@gmail.com
+	name = robin lespagnol
